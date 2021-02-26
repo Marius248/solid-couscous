@@ -40,7 +40,7 @@
                  "value":"..\/Floor1\/floor1.json"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -58,7 +58,7 @@
                  "value":"..\/Lyon\/lyon.json"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -76,7 +76,7 @@
                  "value":"https:\/\/www.youtube.com\/embed\/n118WCwEANY"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -94,7 +94,7 @@
                  "value":"https:\/\/en.wikipedia.org\/w\/index.php?title=Potassium"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -109,7 +109,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/en.wikipedia.org\/w\/index.php?title=Potassium"
+                 "value":"https:\/\/teams.microsoft.com\/l\/meetup-join\/19%3ameeting_NGMzMDBjM2UtNzY0ZS00MGUzLTllYjQtYTUzMjQ2MzY4NDFm%40thread.v2\/0?context=%7b%22Tid%22%3a%22763b2760-45c5-46d3-883e-29705bba49b7%22%2c%22Oid%22%3a%222aefd4f1-097f-4e38-9f19-accd5b9688e7%22%7d"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -135,7 +135,7 @@
                  "value":"room1"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -163,7 +163,7 @@
                  "value":"onaction"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -199,7 +199,7 @@
          "name":"book",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -211,7 +211,7 @@
          "name":"ordi",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":46,
          "x":0,
          "y":0
@@ -223,7 +223,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
