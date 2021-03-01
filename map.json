@@ -61,11 +61,6 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"juststack1"
-                }, 
-                {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/n118WCwEANY"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -107,11 +102,6 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"skribbl1"
-                }, 
-                {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"https:\/\/en.wikipedia.org\/w\/index.php?title=Potassium"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -153,16 +143,6 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"haxball1"
-                }, 
-                {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"https:\/\/msggroup.zoom.us\/j\/97523409426?pwd=a2pyT25veGRpZFdjT214M05nTHNYQT09"
-                }, 
-                {
-                 "name":"openWebsiteTrigger",
-                 "type":"string",
-                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
