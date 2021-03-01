@@ -3,7 +3,6 @@
 Eure Zeichenkünste sind gefragt.
 Reihum zeichnet einer von euch einen Begriff, den die anderen erraten müssen.
 Desto schneller ihr ratet, desto mehr Punkte erhaltet ihr.
-Ihr könnt mit der eingebauten Wörterliste spielen oder Scrum Begriffe verwenden.
 
 # Anleitung für Spielstart
 
