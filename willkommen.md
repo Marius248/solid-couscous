@@ -1,7 +1,7 @@
 # Willkommen
 
 Hallo und Willkommen in der msg DAVID Spielewelt.
-Das Motto dieser Karte lautet "Spielen um des Spielens willen".
+Das Motto dieser Karte lautet ["Spielen um des Spielens willen"](https://www.wissenschaft.de/gesellschaft-psychologie/warum-die-menschen-spielen/).
 
 # Gespräche
 
