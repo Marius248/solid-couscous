@@ -1,8 +1,10 @@
-# Worum geht es?
+# Haxball
+
+## Worum geht es?
 
 Haxball ist ein 2D-Fußballspiel bei dem zwei Teams gegeneinander antreten. Empfohlen für 6 bis 12 Spieler.
 
-# Anleitung für den Spielstart
+## Anleitung für den Spielstart
 
 1. Der Startspieler öffnet [haxball.com](https://www.haxball.com)
 2. Play now
