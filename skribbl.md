@@ -6,7 +6,7 @@ Desto schneller ihr ratet, desto mehr Punkte erhaltet ihr.
 
 # Anleitung für Spielstart
 
-1. Der Startspieler öffnet https://skribbl.io/
+1. Der Startspieler öffnet [skribbl.io](https://skribbl.io) 
 2. Namen auswählen
 3. Farbe auswählen
 4. Raum erstellen
