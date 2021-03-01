@@ -1,10 +1,12 @@
-# Worum geht es?
+# Skribbl.io
+
+## Worum geht es?
 
 Eure Zeichenkünste sind gefragt.
 Reihum zeichnet einer von euch einen Begriff, den die anderen erraten müssen.
 Desto schneller ihr ratet, desto mehr Punkte erhaltet ihr.
 
-# Anleitung für Spielstart
+## Anleitung für Spielstart
 
 1. Der Startspieler öffnet [skribbl.io](https://skribbl.io) 
 2. Namen auswählen
