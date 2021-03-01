@@ -5,7 +5,7 @@ Das Motto dieser Karte lautet ["Spielen um des Spielens willen"](https://www.wis
 
 # Gespräche
 
-Hier in der Lobby könnt ihr euch zu kleinen Gesprächen zusammenfinden. Workadventure unterstützt bis zu vier Teilnehmer in einem Gespräch. Daher sind mehrere Sitzecken mit vier Stühlen eingerichtet. Wenn ihr euch auf die "Hocker" verteilt, wird direkt ersichtlich, ob ein Gespräch voll ist.
+Hier in der Lobby könnt ihr euch zu kleinen Gesprächen zusammenfinden. Workadventure unterstützt bis zu vier Teilnehmer in einem Gespräch. Daher sind mehrere Sitzecken mit vier "Hockern" eingerichtet. Wenn ihr euch auf die "Hocker" verteilt, wird direkt ersichtlich, ob ein Gespräch voll ist.
 
 # Spiele
 
